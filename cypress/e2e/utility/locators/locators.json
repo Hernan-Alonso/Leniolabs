@@ -1,0 +1,7 @@
+{
+  "submitButton": "#login-button",
+  "userInput": "#user-name",
+  "passwordInput": "#password",
+  "errorWrapper": "[data-test='error']",
+  "productsTitle": "[data-test='title']"
+}

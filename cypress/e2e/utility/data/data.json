@@ -1,0 +1,12 @@
+{
+  "ErrorColor": "rgb(226, 35, 26)",
+  "UserErrorMessage": "Epic sadface: Username is required",
+  "PasswordErrorMessage": "Epic sadface: Password is required",
+  "CredentialsErrorMessage": "Epic sadface: Username and password do not match any user in this service",
+  "BlockedErrorMessage": "Epic sadface: Sorry, this user has been locked out.",
+  "ValidUser": "standard_user",
+  "ValidPassword": "secret_sauce",
+  "InvalidUser": "not_a_user",
+  "InvalidPassword": "wrong_password",
+  "ProductsTitle": "Products"
+}
